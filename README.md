@@ -2,11 +2,18 @@
   
 Copyright &copy; 2022 Olivier Vadiavaloo
   
-___
-### Dashboard
+
+### Dashboards
+  
 [malenia_dashboard.pbix](https://github.com/olivier-vadiaval/malenia-DB-T-SQL/raw/main/malenia_dashboard.pbix) (created using Power BI)  
   
 ![image](https://user-images.githubusercontent.com/59672031/170190449-9ab866c4-6bbb-4211-9d34-47bc70ae4240.png)
+  
+___
+  
+[malenia_excel_dashboard.xlsx](https://github.com/olivier-vadiaval/malenia-DB-T-SQL/raw/main/malenia_excel_dashboard.xlsx) (created using Excel)  
+  
+![image](https://user-images.githubusercontent.com/59672031/170322994-be35e7cc-0a91-4cfb-9cdb-019ad070ab37.png)  
 
 ___
 
