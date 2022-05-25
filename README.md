@@ -1,4 +1,4 @@
-# T-SQL queries to query a fun database about player deaths to Elden Ring's terrifying boss, Malenia, Blade of Miquella.
+# T-SQL queries to query a fun database about player deaths to Elden Ring's terrifying boss, Malenia, Blade of Miquella
   
 Copyright &copy; 2022 Olivier Vadiavaloo
   
